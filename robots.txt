@@ -1,4 +1,1 @@
-User-agent: *
-Disallow:
-
 Sitemap: https://jingii.github.io/sitemap.xml
