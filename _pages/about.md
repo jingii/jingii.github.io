@@ -8,7 +8,10 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: 
-    
+    - line: University of Science and Technology of China
+    - line: Hefei, Anhui, China
+    - line: 230026
+  # <h5 id="contact">Contact</h5>
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
