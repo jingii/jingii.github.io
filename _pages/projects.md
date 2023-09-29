@@ -16,8 +16,9 @@ horizontal: false
 <p><strong>Leave No Patient Behind: Enhancing Medication Recommendation for Rare Disease Patients</strong> (Sep.2022 - Aug.2023)</p>
 <p>Advisors: Prof. <a href="https://fulifeng.github.io">Fuli Feng</a> and <a href="https://hexiangnan.github.io">Xiangnan He</a> (LDS, USTC)</p>
 <ul>
-    <li>lalala</li>
-    <li>lalal</li>
+    <li>Address the unfairness issue in medication recommendation firstly</li>
+    <li>Propose a novel medication recommendation model RAREMed that combines pre-training techniques to learn robust representations for rare diseases</li>
+    <li>Demonstrate RAREMed’s superiority over a range of state-of-the-art methods on two real-world datasets</li>
 </ul>
   <h2 class="category">{{ page.display_category2 }}</h2>
   <p><strong>Applied Statistical Software Course Project</strong> (May. 2022)</p>
