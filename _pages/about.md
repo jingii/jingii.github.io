@@ -8,7 +8,8 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Department of Management</p>
+    <h5 id="Contact">Contact</h5>
+    <p>jingi at ustc dot mail dot edu dot cn</p>
     <p>University of Science and Technology of China</p>
     <p>Hefei, Anhui, China</p>
   
