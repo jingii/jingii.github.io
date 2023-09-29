@@ -19,7 +19,15 @@ horizontal: false
     <li>Address the unfairness issue in medication recommendation firstly</li>
     <li>Propose a novel medication recommendation model RAREMed that combines pre-training techniques to learn robust representations for rare diseases</li>
     <li>Demonstrate RAREMed’s superiority over a range of state-of-the-art methods on two real-world datasets</li>
+    <li>The paper has been <strong>submitted</strong> to <a href="https://www.wsdm-conference.org/2024/">WSDM 2024</a></li>
 </ul>
+<p><strong>GraphPath</strong> (Sep.2022 - Aug.2023)</p>
+<p>Advisors: Prof. <a href="https://dbmi.hms.harvard.edu/people/tianxi-cai">Tianxi Cai</a> and Postdoc. <a href="https://www.suqil.com">Suqi Liu</a></p>
+<ul>
+    <li>lalal</li>
+    <li>lalala</li>
+</ul>
+
   <h2 class="category">{{ page.display_category2 }}</h2>
   <p><strong>Applied Statistical Software Course Project</strong> (May. 2022)</p>
 <p>Advisor: Prof. <a href="https://bs.ustc.edu.cn/english/profile-352.html">Canhong Wen</a> from the Department of Statistics and Finance, USTC</p>
