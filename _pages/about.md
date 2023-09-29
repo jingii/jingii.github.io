@@ -9,7 +9,7 @@ profile:
   image_circular: false # crops the image to make it circular
   address: >
     <h5 id="Contact">Contact</h5>
-    <p>jingi at ustc dot mail dot edu dot cn</p>
+    <p>jingi at ustc.mail dot edu dot cn</p>
     <p>University of Science and Technology of China</p>
     <p>Hefei, Anhui, China</p>
   
