@@ -9,9 +9,12 @@ profile:
   image_circular: false # crops the image to make it circular
   address: >
     <h5 id="Contact">Contact</h5>
-    <p>jingi at ustc.mail dot edu dot cn</p>
-    <p>University of Science and Technology of China</p>
-    <p>Hefei, Anhui, China</p>
+    <p>jingi at ustc.mail.edu.cn | jingi.happy at gmail.com</p>
+    <p>Also in 
+    <a href="https://www.linkedin.com/in/yi-jing-ustc/" target="_blank">LinkedIn</a> 
+    |
+    <a href="https://github.com/jingii" target="_blank">GitHub</a>
+    </p>
   
 
 news: true  # includes a list of news items
