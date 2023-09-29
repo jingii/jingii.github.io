@@ -9,10 +9,11 @@ profile:
   image_circular: false # crops the image to make it circular
   address: >
     <h5 id="Contact">Contact</h5>
-    <p>jingi at ustc.mail.edu.cn | jingi.happy at gmail.com</p>
+    <p>jingi at ustc.mail.edu.cn</p>
+    <p>jingi.happy at gmail.com</p>
     <p>Also in 
     <a href="https://github.com/jingii" target="_blank">GitHub</a>
-    |
+    and 
     <a href="./assets/img/vx.jpg" target="_blank">WeChat</a>
     </p>
   
