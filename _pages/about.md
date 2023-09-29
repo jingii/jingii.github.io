@@ -11,9 +11,9 @@ profile:
     <h5 id="Contact">Contact</h5>
     <p>jingi at ustc.mail.edu.cn | jingi.happy at gmail.com</p>
     <p>Also in 
-    <a href="https://www.linkedin.com/in/yi-jing-ustc/" target="_blank">LinkedIn</a> 
-    |
     <a href="https://github.com/jingii" target="_blank">GitHub</a>
+    |
+    <a href="./assets/img/vx.jpg" target="_blank">WeChat</a>
     </p>
   
 
