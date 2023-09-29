@@ -7,10 +7,10 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  address: 
+  address: >
   # <h5 id="contact">Contact</h5>
-  <p>jingi@mail.ustc.edu.cn | jingi.happy@gmail.com<br>
-  Also in<br>
+  <p>jingi@mail.ustc.edu.cn | jingi.happy@gmail.com</p>
+  <p>Also in 
   </p>
 
 news: true  # includes a list of news items
