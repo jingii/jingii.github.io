@@ -13,7 +13,7 @@ nav_order: 5
   - Class: 81 sophomores
   - Win the **Excellent Teaching Assistant Award** :tada:
 
-**Probability Theory and Mathematical Statistics** (Fall 2022) - Sep. 2022 to Jan. 2023
+**Probability Theory and Mathematical Statistics** (Fall 2022)  Sep. 2022 - Jan. 2023
   - Instructor: Prof. [Zhishui Hu](https://bs.ustc.edu.cn/english/profile-99.html) from the Department of Statistics and Finance, USTC
   - Credit: 3
   - Class: 120 sophomores
