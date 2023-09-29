@@ -7,14 +7,17 @@ nav: true
 nav_order: 5
 ---
 
-**Applied Statistical Software** (Spring 2023)  Mar. 2023 - May. 2023
-  - Instructor: Prof. [Canhong Wen](https://bs.ustc.edu.cn/english/profile-352.html) from the Department of Statistics and Finance, USTC
-  - Credit: 3 
-  - Class: 81 sophomores
-  - Win the **Excellent Teaching Assistant Award** :tada:
+<p style="font-size: 1.2em;">&#127775;<strong>Applied Statistical Software</strong>(Spring 2023)</p>
+<p>Instructor: Prof. <a href="https://bs.ustc.edu.cn/english/profile-352.html">Canhong Wen</a> from the Department of Statistics and Finance, USTC</p>
+<ul>
+    <li>Credit: 3 </li>
+    <li>Class: 81 sophomores</li>
+    <li>Win the <strong>Excellent Teaching Assistant Award</strong>&#127881;</li>
+</ul>
 
-**Probability Theory and Mathematical Statistics** (Fall 2022)  Sep. 2022 - Jan. 2023
-  - Instructor: Prof. [Zhishui Hu](https://bs.ustc.edu.cn/english/profile-99.html) from the Department of Statistics and Finance, USTC
-  - Credit: 3
-  - Class: 120 sophomores
-
+<p style="font-size: 1.2em;">&#127775;<strong>Probability Theory and Mathematical Statistics</strong>(Fall 2022)</p>
+<p>Instructor: Prof. <a href="https://bs.ustc.edu.cn/english/profile-99.html">Zhishui Hu</a> from the Department of Statistics and Finance, USTC</p>
+<ul>
+    <li>Credit: 3 </li>
+    <li>Class: 120 sophomores</li>
+</ul>
