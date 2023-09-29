@@ -8,10 +8,10 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-  # <h5 id="contact">Contact</h5>
-  <p>jingi@mail.ustc.edu.cn | jingi.happy@gmail.com</p>
-  <p>Also in 
-  </p>
+    <p>Department of Management</p>
+    <p>University of Science and Technology of China</p>
+    <p>Hefei, Anhui, China</p>
+  
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
