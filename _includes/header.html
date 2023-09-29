@@ -3,12 +3,12 @@
 
       <!-- Nav Bar -->
       <nav id="navbar" class="navbar navbar-light navbar-expand-sm {% if site.navbar_fixed %}fixed-top{% else %}sticky-top{% endif %}">
-        {% if page.title != "about" -%}
-        <a class="navbar-brand font-weight-lighter" href="{{ site.baseurl | prepend: site.url }}/">
-            {%- if site.title == "blank" -%}<h5>Yi (Joy) Jing&nbsp;|&nbsp;</h5>
-              <h5 style="font-family:'FangSong', 'SimSun'">井怡</h5>
-            {%- endif -%}
-        </a>
+        <div class="container">
+          {% if page.permalink != '/' -%}
+          <a class="navbar-brand title font-weight-lighter" href="{{ site.baseurl }}/">
+            <h5>Yi Jing&nbsp;|&nbsp;</h5>
+          <h5 style="font-family:'FangSong', 'SimSun'">井怡</h5>
+          </a>
           {% else %} <h5>Yi Jing&nbsp;|&nbsp;</h5>
           <h5 style="font-family:'FangSong', 'SimSun'">井怡</h5>
         
