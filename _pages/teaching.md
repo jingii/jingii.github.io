@@ -7,7 +7,7 @@ nav: true
 nav_order: 5
 ---
 
-**Applied Statistical Software** (Spring 2023)  Mar. 2023 - May 2023
+**Applied Statistical Software** (Spring 2023)  Mar. 2023 - May. 2023
   - Instructor: Prof. [Canhong Wen](https://bs.ustc.edu.cn/english/profile-352.html) from the Department of Statistics and Finance, USTC
   - Credit: 3 
   - Class: 81 sophomores
